@@ -1,0 +1,70 @@
+/* 
+Name: Greg Vaggalis
+Date: April 2020
+*/
+
+
+body{
+    background-color: #747e8f;
+}
+
+div#container {
+    margin: auto;
+    width: 80%;
+    background-color: #edf5fc;
+    box-shadow: 5px 10px 25px black;
+}
+
+div.col-sm {
+    margin: auto;
+}
+
+div.movie{
+    margin: auto;
+    width: 80%;
+}
+
+h5{
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-deck{
+    padding: 1em;
+}
+
+img.card-img-top{
+    width: 50%;
+    margin: auto;
+    padding: 1em 0; 
+}
+
+button {
+    margin: auto;
+}
+
+.table {
+    width: 95%;
+    margin: auto;
+    padding: 1em;
+    text-align: center;
+    empty-cells: show;
+}
+
+a {
+    padding: 0;
+    margin: 0 15px;
+    display: inline-flex;
+}
+
+P{
+    display: inline-flex;
+    text-align: center;
+}
+
+#foot{
+    display: grid;
+    text-align: center;
+    padding: 1em;
+    font-weight: bold;
+}
